@@ -21,9 +21,3 @@ App requests `ACCESS_FINE_LOCATION` to use device location.
 
 ## Assets
 Images are in `app/src/main/res/drawable/`
-
-## Screenshots
-(Place screenshots here)
-
-## License
-MIT
